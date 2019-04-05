@@ -65,4 +65,4 @@ rm $ msfpath / $ msfvar .tar.gz
 cd  $ {PREFIX} / bin && curl -LO https://hax4us.github.io/files/msfconsole && chmod + x msfconsole
 ln -sf $ ( yang msfconsole )  $ PREFIX / bin / msfvenom
 
-gema  " Anda dapat langsung menggunakan msfvenom atau msfconsole daripada ./msfvenom atau ./
+gema  " Anda dapat langsung menggunakan msfvenom atau msfconsole daripada ./msfvenom atau ./msfconsole. "
