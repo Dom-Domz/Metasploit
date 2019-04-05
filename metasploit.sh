@@ -65,5 +65,5 @@ rm $msfpath/$msfvar.tar.gz
 cd ${PREFIX}/bin && curl -LO https://hax4us.github.io/files/msfconsole && chmod +x msfconsole
 ln -sf $(which msfconsole) $PREFIX/bin/msfvenom
 
-echo "Langsung bisa mengetikn perintah msfvenom"
-echo "edited by DooMz"
+echo "Kalian langsung bisa mengetikan perintah msfvenom atau msfconsole"
+echo "edited by DooMz (Pomalaa Cyber)"
